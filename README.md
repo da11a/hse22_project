@@ -16,37 +16,37 @@
 
 | Organism name       |  Assembly | Общая длина последовательностей | Длина аннотированных генов | Доля аннотированных генов в геноме,% |
 | ------------- |:------------------:| -----:| -----:|  -----:|
-| Brevibacterium casei     | GCF_003932995 | 4038634    | 3593714 | 89 |
+| Brevibacterium casei    |  GCF_016027415 | 3960094 | 3534184  | 89.2 |
 | Brevibacterium luteolum     | GCF_011462075 | 3179618 | 2834497  | 89.1 |
-| Brevibacterium pigmentatum  | GCF_011617245	 | 4156794  | 3701579  | 89 |
-| Brevibacterium aurantiacum | GCF_011617465 | 3913130 | 3490665 | 89.2 |
-| Brevibacterium atlanticum  | GCF_016027415 | 3960094 | 3534184  | 89.2 |
+| Brevibacterium pigmentatum  | GCF_011617465 | 3913130 | 3490665 | 89.2 | 
+| Brevibacterium aurantiacum |  GCF_003932995 | 4038634    | 3593714 | 89 |
+| Brevibacterium atlanticum   | GCF_011617245	 | 4156794  | 3701579  | 89 |
 
-<img width="707" alt="image" src="https://user-images.githubusercontent.com/67833171/173260553-f6e17e39-f1d4-405a-8bc6-4196211d1436.png">
+<img width="569" alt="image" src="https://user-images.githubusercontent.com/67833171/173447164-a08d6429-8f8b-4a97-95d3-f0e3b9b4297a.png">
 
 ## Предсказание участков Z-DNA:
 
 <img width="781" alt="image" src="https://user-images.githubusercontent.com/67833171/173260770-4b16b188-9be4-40d5-b0a2-0acc26767168.png">
 
-<img width="638" alt="image" src="https://user-images.githubusercontent.com/67833171/173260837-626c5a1d-4585-4e5b-982a-759c81033e6d.png">
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/67833171/173447881-6673469e-2541-4c8a-9b89-3cb5bdd4d14c.png">
 
-### Среднее значение z-score = 2234.3663578797946
+### Среднее значение z-score = 2917.3098366599334
 
-<img width="674" alt="image" src="https://user-images.githubusercontent.com/67833171/173260848-9bfd411d-980b-41ea-a5a1-a969172991c0.png">
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/67833171/173447912-7f060aea-65b9-4349-90ce-115b323b3f38.png">
 
 ### Среднее значение z-score = 2788.595775738373
 
-<img width="722" alt="image" src="https://user-images.githubusercontent.com/67833171/173260859-44287c1c-5012-4d72-a3c0-14768e907545.png">
-
-### Среднее значение z-score = 2372.4210845755442
-
-<img width="712" alt="image" src="https://user-images.githubusercontent.com/67833171/173260870-b8b28e8b-b34e-4f2e-a5bd-1ad23e009b08.png">
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/67833171/173447947-c4839cac-c0cd-41c0-87ac-bc1d5dac799c.png">
 
 ### Среднее значение z-score = 2312.2305904480254
 
-<img width="690" alt="image" src="https://user-images.githubusercontent.com/67833171/173260881-d901e397-bb59-4dac-8631-19ab602c32b2.png">
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/67833171/173448033-7e5c463b-4d36-4df0-b8f0-4b5dd8cf0be1.png">
 
-### Среднее значение z-score = 2917.3098366599334
+### Среднее значение z-score = 2234.3663578797946
+
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/67833171/173448080-ef5efaa8-5b03-415d-a4c3-02ebe06b6e17.png">
+
+### Среднее значение z-score = 2372.4210845755442
 
 
 ## Ассоциируем предсказанные участки Z-DNA с промотерами генов:
