@@ -1,5 +1,7 @@
 # hse22_project
 
+Ссылка на colab: https://colab.research.google.com/drive/1DcUv7DLhlC1CZt50oxeWekXoX91M3m6s?usp=sharing 
+
 ### Для данного задания исследовались 5 видов таксона Actinobacteria, рода Brevibacterium: 
 
 | Organism name       | Assembly | Level | Size(Mb) | GC% | Scaffolds |
