@@ -54,6 +54,18 @@
 
 ## Ассоциируем предсказанные участки Z-DNA с промотерами генов:
 
+###  Визуализация генов и предсказанных участков Z-DNA с помощью IGV
+
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/67833171/173817911-c41f7598-4ab3-4081-b589-7efb73fb22ce.png">
+
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/67833171/173820260-227a516c-e784-4152-b659-f3513ace52bc.png">
+
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/67833171/173818072-4120c240-4f8b-44f0-8efa-5a4cb21daee6.png">
+
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/67833171/173817358-d70edd6e-0972-4dae-821b-a1c8b7e177bd.png">
+
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/67833171/173818203-ac09c2fa-2e35-4fb8-8e7b-21798782d999.png">
+
 ### Гистограмма кластеров по количеству генов
 
 ![класт_гены](https://user-images.githubusercontent.com/67833171/173709195-2cebf401-4ed5-423e-8cd5-d28cf46d7e05.png)
@@ -132,4 +144,7 @@
 
 ## Визуализация расположения участков Z-DNA:
 
+Пример для Кластера 1
+
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/67833171/173840741-276e1bac-eedc-4d37-9b7f-1d95aa041556.png">
 
