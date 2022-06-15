@@ -29,6 +29,14 @@
 
 <img width="727" alt="image" src="https://user-images.githubusercontent.com/67833171/173706963-6c8a0445-6011-4773-b190-fa79ac605ea1.png">
 
+| Organism name       |  Среднее кол-во Z-DNA участков | Гены с Z-DNA в промотере | 
+| ------------- |:------------------:| -----:|
+| Brevibacterium casei    | 3960094  | 17 | 
+| Brevibacterium luteolum     | 3179618 | 2 | 
+| Brevibacterium pigmentatum  | 3913130 | 8 |  
+| Brevibacterium aurantiacum |  4038634 | 40   | 
+| Brevibacterium atlanticum   | 4156794	 | 37  |
+
 ### Гистограммы:
 
 ![zh_casei](https://user-images.githubusercontent.com/67833171/173707095-f5b90f7f-10e7-43c5-9548-bc1c9326861c.png)
